@@ -76,24 +76,6 @@ The dataset contains historical e-commerce sales transactions, including:
 ### Main Dashboard
 <img width="1157" height="791" alt="image" src="https://github.com/user-attachments/assets/9c7000b6-1cab-4a7d-a86a-686177c3f8af" />
 
-
-## 📁 Project Structure
-
-```text
-E-Commerce-Sales-Dashboard/
-│
-├── README.md
-├── Problem_Statement.pdf
-├── Dataset/
-│   └── E-Commerce Dashboard Dataset.xlsx
-├── Dashboard/
-│   ├── Sales Dashboard.xlsx
-│   └── Dashboard Screenshot.png
-├── Images/
-│   └── Dashboard.png
-└── Analysis/
-    └── Project Report.pdf
-
 ## 🎓 Learning Outcomes
 
 Through this project, I strengthened my skills in:
