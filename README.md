@@ -1,41 +1,109 @@
-# E-Commerce-Sales-Dashboard
-Project Overview
+# 📊 E-Commerce Sales Dashboard
 
-This project analyzes e-commerce sales data to identify sales trends, customer behavior, product performance, and profitability. The dashboard provides actionable insights to support data-driven business decisions.
+An interactive Microsoft Excel dashboard designed to analyze e-commerce sales performance and provide actionable business insights through dynamic visualizations and KPI reporting.
 
-Business Problem
+## 📌 Project Overview
 
-The management team of an e-commerce company required a centralized dashboard to monitor business performance and identify opportunities for growth. They wanted to understand:
+This project analyzes historical sales data of an e-commerce company to identify sales trends, profitability, and regional performance. Using Microsoft Excel, an interactive dashboard was developed to help stakeholders monitor key business metrics and make data-driven decisions.
 
-Sales and profit trends over time
-Regional sales performance
-Product category performance
-Customer purchasing patterns
-Areas requiring strategic business improvements
+## 🎯 Business Problem
 
-The goal was to create an interactive dashboard that allows users to explore sales data efficiently and support informed decision-making.
+The management team wanted an interactive dashboard to:
 
-Tools Used
-Excel 
-Pivot Tables
-Pivot Charts
-Data Validation
-Combo Box Controls
-Interactive Dashboards
-Data Cleaning & Transformation
+* Monitor monthly sales and profit trends
+* Compare sales performance across regions
+* Analyze product category performance
+* Enable dynamic filtering by product category
+* Support strategic business decision-making
 
-Dataset Information
+## 📂 Dataset Information
 
-The dataset contains historical sales data from an e-commerce company and is used to analyze sales performance across products, customers, and regions.
+The dataset contains historical e-commerce sales transactions, including:
 
-Dataset Features:
+* Order Details (Order ID, Order Date, Ship Date, Ship Mode)
+* Product Information (Category, Product Name)
+* Sales Metrics (Sales, Quantity, Discount, Profit, Shipping Cost)
+* Customer Information (Customer ID, Customer Name)
+* Geographic Information (City, State, Country, Region)
+* Time Attributes (Month, Aging)
 
-Order Details: Order ID, Order Date, Ship Date, Ship Mode, Order Priority
-Product Information: Product Category, Product Name
-Sales Metrics: Sales, Quantity, Discount, Profit, Shipping Cost
-Customer Information: Customer ID, Customer Name
-Geographic Information: City, State, Country, Region
+## 🛠️ Tools & Skills Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers / Combo Box
+* Data Cleaning
+* Data Validation
+* Dashboard Design
+* Business Analytics
+* Data Visualization
+
+## 📈 Dashboard Features
+
+* 📅 Month-wise Sales & Profit Analysis
+* 🌍 Region-wise Sales Analysis
+* 📦 Product Category Filter
+* 📊 Interactive Charts
+* 📌 KPI Summary Dashboard
+
+## 📊 Key KPIs
+
+* Total Sales
+* Total Profit
+* Total Orders
+* Total Quantity Sold
+* Regional Sales Performance
+* Monthly Sales Trend
+
+## 💡 Key Insights
+
+* Identified monthly sales and profit trends.
+* Compared sales performance across different regions.
+* Evaluated product category performance.
+* Enabled dynamic dashboard filtering using product categories.
+* Improved business reporting through interactive visualizations.
+
+## 🚀 Business Recommendations
+
+* Focus marketing efforts on high-performing product categories.
+* Improve sales strategies in low-performing regions.
+* Monitor discounts to maximize profitability.
+* Use monthly sales trends for inventory planning.
+
+## 📷 Dashboard Preview
+
+### Main Dashboard
+<img width="1157" height="791" alt="image" src="https://github.com/user-attachments/assets/9c7000b6-1cab-4a7d-a86a-686177c3f8af" />
 
 
-Time Attributes: Month, Aging
+## 📁 Project Structure
 
+```text
+E-Commerce-Sales-Dashboard/
+│
+├── README.md
+├── Problem_Statement.pdf
+├── Dataset/
+│   └── E-Commerce Dashboard Dataset.xlsx
+├── Dashboard/
+│   ├── Sales Dashboard.xlsx
+│   └── Dashboard Screenshot.png
+├── Images/
+│   └── Dashboard.png
+└── Analysis/
+    └── Project Report.pdf
+
+## 🎓 Learning Outcomes
+
+Through this project, I strengthened my skills in:
+
+* Data Cleaning
+* Business Analytics
+* Excel Dashboard Development
+* KPI Reporting
+* Data Visualization
+* Business Insight Generation
+
+## 👩‍💻 Author
+**Vaishnavi S. Shirsat**
